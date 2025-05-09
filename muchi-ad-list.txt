@@ -32,3 +32,4 @@ www.twitch.tv##.Gphvs.Layout-sc-1xcs6mc-0
 
 youtube.com###dismissable:has-text(LIVE NOW)
 
+www.twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
