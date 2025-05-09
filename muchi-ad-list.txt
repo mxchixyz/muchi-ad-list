@@ -2,7 +2,6 @@
 www.twitch.tv##.fxCDlb.Layout-sc-1xcs6mc-0
 www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
 
-
 #||i.ytimg.com/vi/$image
 
 ! Apr 21, 2025 https://www.youtube.com
@@ -33,3 +32,5 @@ www.twitch.tv##.Gphvs.Layout-sc-1xcs6mc-0
 youtube.com###dismissable:has-text(LIVE NOW)
 
 www.twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
+
+www.twitch.tv##.about-section__panel.gXxRYI.Layout-sc-1xcs6mc-0
