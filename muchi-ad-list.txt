@@ -1,0 +1,34 @@
+! Apr 13, 2025 https://www.twitch.tv
+www.twitch.tv##.fxCDlb.Layout-sc-1xcs6mc-0
+www.twitch.tv##.jWHzQH.Layout-sc-1xcs6mc-0 > .hsXgFK.Layout-sc-1xcs6mc-0
+
+
+#||i.ytimg.com/vi/$image
+
+! Apr 21, 2025 https://www.youtube.com
+! www.youtube.com###top-row
+
+! Apr 28, 2025 https://www.youtube.com
+! www.youtube.com##.ytVideoMetadataCarouselViewModelHost
+www.youtube.com###show-hide-button
+www.youtube.com###ticket-shelf > .ytd-watch-flexy.style-scope
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-structured-description-content-renderer.style-scope > .ytd-horizontal-card-list-renderer.style-scope
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##.ytd-metadata-row-container-renderer.style-scope > .ytd-rich-metadata-row-renderer.style-scope
+
+! Apr 29, 2025 https://www.youtube.com
+www.youtube.com##ytd-video-description-transcript-section-renderer.ytd-structured-description-content-renderer.style-scope
+
+! May 4, 2025 https://www.twitch.tv
+www.twitch.tv##.dLqPXF.Layout-sc-1xcs6mc-0
+www.twitch.tv##.hoverBackground--oha2B.cHwpra.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+
+! May 8, 2025 https://www.twitch.tv
+www.twitch.tv##.hALesN.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__card.Layout-sc-1xcs6mc-0
+www.twitch.tv##.community-highlight-stack__backlog-card.hooeLW.Layout-sc-1xcs6mc-0
+www.twitch.tv##.Gphvs.Layout-sc-1xcs6mc-0
+
+youtube.com###dismissable:has-text(LIVE NOW)
+
