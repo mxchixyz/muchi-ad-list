@@ -34,3 +34,8 @@ youtube.com###dismissable:has-text(LIVE NOW)
 www.twitch.tv##.ceAbGI.Layout-sc-1xcs6mc-0
 
 www.twitch.tv##.about-section__panel.gXxRYI.Layout-sc-1xcs6mc-0
+
+www.google.com##.f5cPye > div
+www.google.com##.RK5Kkf.WAUd4.GkDqAd.OZ9ddf
+www.google.com##.FR7ZSc.NQYJvc.fCrZyc.btku5b.in7vHe > .SlP8xc.VDgVie.niO4u
+www.google.com##.UxeQfc
